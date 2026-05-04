@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NijiDevCedre.github.io/resources-dr9drw/sitemap.xml
